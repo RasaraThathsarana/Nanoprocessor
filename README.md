@@ -5,8 +5,8 @@ This is an academic project completed as part of the Semester 2 Computer Organiz
 ![Nanoprocessor Diagram](https://github.com/RasaraThathsarana/Nanoprocessor/blob/main/images/processor-diagram.png?raw=true)
 
 For further details, refer to the following documents:
-- [Lab Manual](https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/Lab%209-10%20_%20Microprocessor.pdf)
-- [Project Report](https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/lab%209-10%20Report.pdf)
+- [Lab Manual](https://github.com/RasaraThathsarana/NanoprocessorL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/Lab%209-10%20_%20Microprocessor.pdf)
+- [Project Report](https://github.com/RasaraThathsarana/Nanoprocessor/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/lab%209-10%20Report.pdf)
 
 ## Project Components
 
@@ -125,4 +125,4 @@ set_property PACKAGE_PIN U18 [get_ports Res]
 ### Installation
 - Clone the repository to your local machine using the command:
   ```bash
-  git clone https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL.git
+  git clone https://github.com/RasaraThathsarana/Nanoprocessor.git
