@@ -2,11 +2,11 @@
 
 This is an academic project completed as part of the Semester 2 Computer Organization and Digital Design Module. The project involved designing a 4-bit Nanoprocessor capable of executing basic arithmetic operations and displaying the output on a 7-Segment Display. Key components of the processor include a 72-bit Program ROM, a 32-bit Register Bank, Multiplexers, a Program Counter, and an Instruction Decoder. Below is a high-level diagram of the Nanoprocessor:
 
-![Nanoprocessor Diagram](https://github.com/k-ranasinghe/Nanoprocessor-Design-VHDL/blob/main/images/processor-diagram.png?raw=true)
+![Nanoprocessor Diagram](https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL/blob/main/images/processor-diagram.png?raw=true)
 
 For further details, refer to the following documents:
-- [Lab Manual](https://github.com/k-ranasinghe/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/Lab%209-10%20_%20Microprocessor.pdf)
-- [Project Report](https://github.com/k-ranasinghe/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/lab%209-10%20Report.pdf)
+- [Lab Manual](https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/Lab%209-10%20_%20Microprocessor.pdf)
+- [Project Report](https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL/blob/9b81ea092f5efd99e5e1a7f0102a0ab3aaee1776/lab%209-10%20Report.pdf)
 
 ## Project Components
 
@@ -125,4 +125,4 @@ set_property PACKAGE_PIN U18 [get_ports Res]
 ### Installation
 - Clone the repository to your local machine using the command:
   ```bash
-  git clone https://github.com/k-ranasinghe/Nanoprocessor-Design-VHDL.git
+  git clone https://github.com/RasaraThathsarana/Nanoprocessor-Design-VHDL.git
